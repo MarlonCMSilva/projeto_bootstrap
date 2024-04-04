@@ -1,0 +1,36 @@
+.produtos {
+    margin-bottom: 50px;
+}
+
+
+
+.imagens, .produtos {
+    width: 100%;
+    height: 50%;
+    margin-top: 50px;
+}
+
+section > .carousel-slide{
+    max-width: 100%;
+}
+
+.navbar{
+    background-color: #492d49 ;
+    color: #d1b68d;
+}
+
+
+.nav .nav-link.active{
+    background-color: #dfa799;
+    color: #000;
+}
+
+.nav .nav-link{
+    color: #000;
+}
+
+
+section h3{
+    margin-top: 12px;
+}
+
